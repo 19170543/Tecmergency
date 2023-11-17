@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "458169109665",
+    "project_id": "tecmergency",
+    "storage_bucket": "tecmergency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458169109665:android:c970547915adf4752cf4e0",
+        "android_client_info": {
+          "package_name": "Tecmergency.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipmiRE-bt-VKN5NN9G3lNeNSW0FIdIgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458169109665:android:f44d4d49bb7029692cf4e0",
+        "android_client_info": {
+          "package_name": "com.mycompany.tecmergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipmiRE-bt-VKN5NN9G3lNeNSW0FIdIgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458169109665:android:b4a9d8371d230f422cf4e0",
+        "android_client_info": {
+          "package_name": "com.teamignition.tecmergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipmiRE-bt-VKN5NN9G3lNeNSW0FIdIgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
